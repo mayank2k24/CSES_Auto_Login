@@ -58,10 +58,6 @@ CSES Auto Login is a Chrome extension that automatically logs you into the CSES 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions!
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 
-If you have any questions or feedback, please feel free to contact us at [your-email@example.com].
+If you have any questions or feedback, please feel free to do it in issues or send me a mail at [admin@mayankgroup.tech]
